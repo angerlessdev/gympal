@@ -1,0 +1,134 @@
+{
+  "nutritionists": [
+    {
+      "id": 1,
+      "name": "Gabriela Martínez",
+      "username": "Gabby",
+      "age": "35",
+      "email": "gabi.martinez@example.com",
+      "phrase": "Con mi ayuda, alcanzarás tus metas en el tiempo que decidas.",
+      "longPhrases": "Con mi ayuda, alcanzarás tus metas en el tiempo que decidas. Junto a mí, te adentrarás en un viaje de autoexploración y desarrollo personal que te llevará más allá de tus límites percibidos.",
+      "address": {
+        "street": "Calle del Sol",
+        "suite": "Apartamento 123",
+        "city": "Ciudad Esperanza",
+        "zipcode": "12345",
+        "geo": {
+          "lat": "12.3456",
+          "lng": "-45.6789"
+        }
+      },
+      "phone": "123-456-7890",
+      "website": "gabrimartinez.com",
+      "company": {
+        "name": "Martínez & Asociados",
+        "catchPhrase": "Transformando sueños en realidades",
+        "bs": "potenciamos el crecimiento personal"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Alejandro Sánchez",
+      "username": "AlexSan",
+      "age": "28",
+      "email": "ale.sanchez@example.com",
+      "phrase": "Te llevaré hacia la grandeza, desafiándote a superar tus límites cada día.",
+      "longPhrases": "Te llevaré hacia la grandeza, desafiándote a superar tus límites cada día. Bajo mi orientación, te impulsaré hacia la excelencia, desafiándote a superar tus propios límites diariamente.",
+      "address": {
+        "street": "Avenida Libertad",
+        "suite": "Piso 5",
+        "city": "Ciudad Progreso",
+        "zipcode": "54321",
+        "geo": {
+          "lat": "-54.3210",
+          "lng": "21.6789"
+        }
+      },
+      "phone": "987-654-3210",
+      "website": "alexsanchez.com",
+      "company": {
+        "name": "Sánchez & Partners",
+        "catchPhrase": "Desafiando límites, creando éxitos",
+        "bs": "potenciando talentos individuales"
+      }
+    },
+    {
+      "id": 3,
+      "name": "María Fernández",
+      "username": "MariaF",
+      "age": "33",
+      "email": "m.fernandez@example.com",
+      "phrase": "Juntos, haremos realidad tus sueños, sin barreras ni excusas.",
+      "longPhrases": "Juntos, haremos realidad tus sueños, sin barreras ni excusas. Nuestra colaboración transformará tus sueños en realidades tangibles, sin restricciones ni justificaciones.",
+      "address": {
+        "street": "Calle Principal",
+        "suite": "Apartamento 456",
+        "city": "Villa Esperanza",
+        "zipcode": "67890",
+        "geo": {
+          "lat": "-67.8901",
+          "lng": "12.3456"
+        }
+      },
+      "phone": "543-210-9876",
+      "website": "mariafernandez.com",
+      "company": {
+        "name": "Fernández Consulting",
+        "catchPhrase": "Transformando sueños en logros",
+        "bs": "desarrollamos potencial humano"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Carlos Rodríguez",
+      "username": "CRod",
+      "age": "31",
+      "email": "carlos.r@example.com",
+      "phrase": "Con mi respaldo, encontrarás tu camino hacia el éxito y la plenitud personal.",
+      "longPhrases": "Con mi respaldo, encontrarás tu camino hacia el éxito y la plenitud personal. Acompañado/a por mí, trazarás el sendero hacia el éxito y la plenitud personal.",
+      "address": {
+        "street": "Avenida Principal",
+        "suite": "Piso 10",
+        "city": "Ciudad Progreso",
+        "zipcode": "12345",
+        "geo": {
+          "lat": "-12.3456",
+          "lng": "67.8901"
+        }
+      },
+      "phone": "321-654-9870",
+      "website": "carlosrodriguez.com",
+      "company": {
+        "name": "Rodríguez Solutions",
+        "catchPhrase": "Guiando hacia el éxito personal",
+        "bs": "empoderamos tus habilidades"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Laura González",
+      "username": "LauraG",
+      "age": "29",
+      "email": "laura.g@example.com",
+      "phrase": "Descubre tu potencial real y conquista cada objetivo que te propongas.",
+      "longPhrases": "Descubre tu potencial real y conquista cada objetivo que te propongas. Explora tu potencial genuino y conquista sin reservas cada objetivo que te propongas.",
+      "address": {
+        "street": "Calle de la Esperanza",
+        "suite": "Piso 2",
+        "city": "Villa Progreso",
+        "zipcode": "98765",
+        "geo": {
+          "lat": "98.7654",
+          "lng": "-54.3210"
+        }
+      },
+      "phone": "678-901-2345",
+      "website": "lauragonzalez.com",
+      "company": {
+        "name": "González Enterprises",
+        "catchPhrase": "Potenciando tus habilidades",
+        "bs": "desarrollamos el talento individual"
+      }
+    }
+  ]
+}
